@@ -1,0 +1,12 @@
+ipykernel
+jupyter
+jupyterlab
+jupyterlab-widgets
+ipywidgets      
+matplotlib
+seaborn
+streamlit
+numpy<2
+pandas
+scikit-learn
+mlxtend
