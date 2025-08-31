@@ -13,9 +13,8 @@ It loads a SQLite database (`AI_Symptomps_Note.db`) with symptoms and allows que
 ---
 
 ## 📂 Project Structure
-─ main.py # FastAPI app
-─ requirements.txt # Dependencies
-─ Procfile # Deployment process file (Render/Railway)
-
-─ AI_Symptomps_Note.db # Placeholder SQLite DB 
-─ README.md # Documentation
+- main.py # FastAPI app
+- requirements.txt # Dependencies
+- Procfile # Deployment process file (Render/Railway)
+- AI_Symptomps_Note.db # Placeholder SQLite DB 
+- README.md # Documentation
