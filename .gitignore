@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# SQLite database (keep only placeholder if needed)
+*.db
+!AI_Symptomps_Note.db   # keep this one in Git
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit config
+.streamlit/secrets.toml
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
