@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+ipykernel
+jupyter
+jupyterlab
+jupyterlab-widgets
+ipywidgets      
+requests
+streamlit
+numpy
+pandas
+scikit-learn
+mlxtend
