@@ -1,4 +1,4 @@
-# 🤖 Symptoms Recommender API
+# 🤖 Symptoms Recommender System
 
 This project provides a **FastAPI-based Symptoms Recommendation API** using Association Rules (Apriori).  
 It loads a SQLite database (`AI_Symptomps_Note.db`) with symptoms and allows querying for related symptoms.
@@ -68,3 +68,24 @@ It performs:
 
 This notebook can be run independently to update the symptom database or validate model performance before deployment via FastAPI.
 The Jupyter notebook which consits of Data Engineering.ipynb and Symptoms_Recommendation.ipynb can be excuted to see the progress and reslut through each of the block lines by press play (F5) to excute each lines of the code.
+
+## 🧠 How It Works
+1. The system reads symptom notes from the SQLite database.  
+2. Preprocessing and transformation are performed on raw symptom data.  
+3. Association Rule Mining identifies relationships between symptoms.  
+4. The API (or notebook) returns a list of associated symptoms for a given input.  
+
+---
+
+## ▶️ Run Locally (REST API Calling By Developers)
+
+```bash
+# Clone the repository
+git clone https://github.com/jose-cisco/Symptoms-Recommendation.git
+cd Symptoms-Recommendation
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the API
+uvicorn main:app --reload
