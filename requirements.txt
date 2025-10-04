@@ -1,0 +1,8 @@
+fastapi
+mlxtend
+numpy
+pandas
+python-multipart
+scikit-learn
+typing
+uvicorn
