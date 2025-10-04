@@ -17,12 +17,11 @@ It loads a SQLite database (`AI_Symptomps_Note.db`) with symptoms and allows que
 - requirements.txt # Dependencies
 ## 📂 Working On Symptoms Data And Symptoms Recommendation Demo
 - AI_Symptomps_Note.db # Placeholder SQLite DB 
-- **Data Engineering** — Extracted relevant explanation to the symptoms information.  
+- Data Engineering.ipynb — Extracted relevant explanation to the symptoms information.  
   This phase includes:
   - Processing and cleaning irrelevant information from extracted symptoms data  
   - Transforming the cleaned data into a structured DataFrame  
   - Loading the transformed data into the SQLite database for querying by the API
-  - 
 ## 🧩 Symptoms Recommendation Process
 
 This module and notebook implement the **core workflow** for discovering and analyzing relationships between symptoms using data-driven techniques.
@@ -68,3 +67,4 @@ It performs:
 5. Generation of symptom association recommendations  
 
 This notebook can be run independently to update the symptom database or validate model performance before deployment via FastAPI.
+The Jupyter notebook which consits of Data Engineering.ipynb and Symptoms_Recommendation.ipynb can be excuted to see the progress and reslut through each of the block lines by press play (F5) to excute each lines of the code.
