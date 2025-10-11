@@ -89,10 +89,3 @@ pip install -r requirements.txt
 
 # Run the API
 uvicorn main:app --reload
-
----
-
-## 🖼️ Results
-
-
----
