@@ -90,8 +90,9 @@ pip install -r requirements.txt
 # Run the API
 uvicorn main:app --reload
 
+---
+
 ## 🖼️ Results
 
-![messageImage_1760170243817](https://github.com/user-attachments/assets/d3ae415a-c39d-488e-a395-07f91e92d6ca)
-![messageImage_1760170289030](https://github.com/user-attachments/assets/d9d7ddd4-4aa9-47fd-8e7f-28995ad7ea5c)
-![messageImage_1760170683412](https://github.com/user-attachments/assets/1629df2b-748f-463e-95b8-87e68b5d5503)
+
+---
