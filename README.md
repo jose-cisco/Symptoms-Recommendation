@@ -96,8 +96,9 @@ uvicorn main:app --reload
 
 Results outputs generated during the analysis and association process.
 
-
-![image alt][https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760170683412.jpg?raw=true]
+![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760170243817.jpg?raw=true)
+![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760170289030.jpg?raw=true)
+![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760170683412.jpg?raw=true)
 
 ---
 
