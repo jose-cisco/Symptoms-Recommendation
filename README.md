@@ -90,6 +90,15 @@ pip install -r requirements.txt
 # Run the API
 uvicorn main:app --reload
 
-## 🖼️ Results
+---
 
+## 🖼️ Results 
+
+Results outputs generated during the analysis and association process.
+
+![image alt][https://github.com/jose-cisco/Symptoms-Recommendation/blob/f2ff5e000a88dd0cf3f9eb0935b0fe6f94a288cb/messageImage_1760170243817.jpg]
+![image alt][https://github.com/jose-cisco/Symptoms-Recommendation/blob/f2ff5e000a88dd0cf3f9eb0935b0fe6f94a288cb/messageImage_1760170289030.jpg]
+![image alt][https://github.com/jose-cisco/Symptoms-Recommendation/blob/f2ff5e000a88dd0cf3f9eb0935b0fe6f94a288cb/messageImage_1760170683412.jpg]
+
+---
 
