@@ -77,6 +77,20 @@ The Jupyter notebook which consits of Data Engineering.ipynb and Symptoms_Recomm
 
 ---
 
+---
+
+## 🖼️ Results 
+
+Results outputs generated during the analysis and association process.
+
+![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760170243817.jpg?raw=true)
+
+
+---
+
+---
+
+
 ## ▶️ Run Locally (REST API Calling By Developers)
 
 ```bash
@@ -90,14 +104,6 @@ pip install -r requirements.txt
 # Run the API
 uvicorn main:app --reload
 
----
-
-## 🖼️ Results 
-
-Results outputs generated during the analysis and association process.
-
-![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760170243817.jpg?raw=true)
 
 
----
 
