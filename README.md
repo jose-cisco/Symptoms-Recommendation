@@ -49,7 +49,7 @@ Integrates all previous steps:
 - Combines cleaned and structured data  
 - Applies association rule mining  
 - Selects important features  
-- Produces a **Symptoms Recommendation Table** showing other symptoms most commonly linked to a given symptom or case  
+- Produces a **Symptoms Recommendation JSON DATA in .txt file** showing other symptoms most commonly linked to a given symptom or case  
 
 ---
 
@@ -89,3 +89,7 @@ pip install -r requirements.txt
 
 # Run the API
 uvicorn main:app --reload
+
+## 🖼️ Results
+
+
