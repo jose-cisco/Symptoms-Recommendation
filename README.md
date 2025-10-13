@@ -165,7 +165,9 @@ Example Response:
 ## 🖼️ Results 
 
 ---
-
+![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760343260123_0.jpg?raw=true)
+![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760343269847_0.jpg?raw=true)
+![image alt](https://github.com/jose-cisco/Symptoms-Recommendation/blob/main/messageImage_1760343278164_0.jpg?raw=true)
 ---
 
 ## 📤 Auto JSON Download
