@@ -191,8 +191,7 @@ and your output will automatically be saved (e.g. `recommendations_20251013_2145
 ├── main.py                   # Main FastAPI app
 ├── Symptoms Database.db       # SQLite DB file
 ├── requirements.txt           # Dependencies
-├── assets/
-│   └── frontend.png           # Optional screenshot for README
+├── frontend.png               # screenshot for README
 └── README.md
 ```
 
