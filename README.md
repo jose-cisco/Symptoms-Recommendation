@@ -160,6 +160,12 @@ Example Response:
   "mlxtend_available": true
 }
 ```
+---
+
+---
+
+## 🖼️ Results 
+---
 
 ---
 
@@ -199,12 +205,3 @@ and your output will automatically be saved (e.g. `recommendations_20251013_2145
 - Deploy via Docker or Cloud Run  
 
 ---
-
-## 📜 License
-MIT License © 2025 — Developed by [Your Name]
-
----
-
-## 🌐 Author
-**Your Name**  
-💼 [LinkedIn](https://linkedin.com) • 🧠 [GitHub](https://github.com/yourusername)
