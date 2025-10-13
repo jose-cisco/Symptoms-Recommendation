@@ -162,9 +162,8 @@ Example Response:
 ```
 ---
 
----
-
 ## 🖼️ Results 
+
 ---
 
 ---
